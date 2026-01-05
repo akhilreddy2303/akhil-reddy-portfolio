@@ -19,8 +19,8 @@ incident response, IAM, cloud security, and security automation.
 ---
 
 ## 🧪 Hands-on Work
-- Cybersecurity Labs (coming soon)
-- Portfolio Website (coming soon)
+- Cybersecurity Labs 
+- Portfolio Website (comming soon)
 
 ---
 
