@@ -1,16 +1,28 @@
-# Akhil Reddy Muduganti
+## 👋 Hi, I'm Akhil Reddy Muduganti
 
-🎓 Master's student in Cybersecurity  
-🔐 Aspiring Security Analyst / Offensive Security  
-📍 USA  
+Cybersecurity Analyst with experience in SOC operations, SIEM monitoring, 
+incident response, IAM, cloud security, and security automation.
 
-## Skills
-- Networking fundamentals
-- Linux (Kali, Ubuntu)
-- Burp Suite, Nmap, Wireshark
-- Web application security basics
+🎓 Master’s in Information Assurance & Cybersecurity  
+📍 USA | Open to Security Analyst / SOC roles  
 
-## Goal
-Document hands-on cybersecurity labs and projects to become job-ready.
-# akhil-reddy-portfolio
-My cybersecurity labs, notes, and projects
+---
+
+## 🔐 Core Skills
+- SIEM & SOC Operations (Splunk, QRadar, AlienVault)
+- Incident Response & Threat Detection
+- Vulnerability Management (Nessus, Qualys)
+- Identity & Access Management (Azure AD, Okta, AD)
+- Cloud Security (AWS, Azure, CIS Benchmarks)
+- Automation (Python, PowerShell, Bash)
+
+---
+
+## 🧪 Hands-on Work
+- Cybersecurity Labs (coming soon)
+- Portfolio Website (coming soon)
+
+---
+
+## 📜 Certification
+- CompTIA Security+
